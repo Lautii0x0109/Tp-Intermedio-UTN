@@ -252,7 +252,7 @@ nav a:hover
     color: white;
     padding: 40px 20px;
     position: relative;
-    top: -320px
+    top: -320px;
 }
 
 .solucion_titulo 
@@ -504,7 +504,6 @@ nav a:hover
         max-width: 1150px;
         margin: 40px auto 0;
         height: 70px;
-        flex-wrap: nowrap;
         justify-content: space-between;
     }
 
@@ -792,5 +791,5 @@ nav a:hover
     }
 }
 
-/*Responsive de 600px terminado 4/!1
-/*responsive cambiado a 989px 6/11
+/*Responsive de 600px terminado 4/!1*/
+/*responsive cambiado a 989px 6/11*/

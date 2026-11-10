@@ -652,7 +652,9 @@ nav a:hover
 
     .principio_palabra
     {
-        margin-right: 930px;
+        margin-right: 0px;
+        position: relative;
+        left: -220px;
         font-weight: bold;
     }
 

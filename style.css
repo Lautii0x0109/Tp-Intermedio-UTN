@@ -662,7 +662,7 @@ nav a:hover
 
     .principio_busqueda
     {
-        margin-left: auto;
+        display:none;
     }
 
     .principio_botones

@@ -646,13 +646,15 @@ nav a:hover
 {
     .principio
     {
-        justify-content: space-between;
+        justify-content: flex-start;
         flex-wrap: nowrap;
+        gap: 5px;
     }
 
     .principio_palabra
     {
-        margin-right: 0px;
+        margin-right: auto;
+        font-weight: bold;
     }
 
     nav
@@ -693,6 +695,11 @@ nav a:hover
         position: relative;
         bottom: 0px;
         text-align: center;
+    }
+
+    .hero_texto span
+    {
+        text-align: left;
     }
 
     .hero_texto h1

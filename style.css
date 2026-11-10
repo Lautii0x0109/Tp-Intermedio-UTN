@@ -675,7 +675,7 @@ nav a:hover
     .principio_carpetita
     {
         display: block;
-        margin-left: 18px;
+        margin-left: auto;
     }
 
     .hero
